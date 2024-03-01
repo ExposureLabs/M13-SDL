@@ -1,4 +1,4 @@
-Conversion board to convert IBM M13 keyboards to include an SDL connector.
+Conversion board to allow the IBM M13 to use an SDL connector.
 
 Parts List: 
 
