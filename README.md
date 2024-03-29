@@ -6,4 +6,4 @@ Parts List:
 
 M13-SDL Board
 
-end of original cable with JST connector
+The end of original cable with JST connector
